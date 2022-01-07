@@ -121,3 +121,150 @@ Author: auevangel <95333707+auevangel@users.noreply.github.com>
 Date:   Thu Jan 6 19:36:22 2022 +1100
 
     Initial commit
+commit 65946cde60b5e882504ef63a13f492fc4d69bb33
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 21:39:24 2022 +1100
+
+    Get latest list of files
+
+commit 103f76d52e3a3715f0e6b63f43002936c6a4a6de
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 21:37:55 2022 +1100
+
+    delete files
+
+commit e13e1fa0d90f72686f3ab392eb5a3291ccf48981
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 21:23:05 2022 +1100
+
+    Created fourth file
+
+commit 5703e99e332df7df8517bc4ef96afda1d028dc6f
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 21:16:19 2022 +1100
+
+    Delete this_file.txt
+
+commit 99c241e06bdb21f4d4e0415b5fff2fec9a7b7457
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 21:12:42 2022 +1100
+
+    Create new file
+
+commit fe607691a5e087341853b9f5f0b02baec92f7410
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 21:02:15 2022 +1100
+
+    Get latest list of commits and files
+
+commit 8acf8106e0c72a33837c17bb72c36eb70474ddd6
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:59:24 2022 +1100
+
+    Renamed and reorganised files
+
+commit 96d78fbdd743ec2427a5ad6b14a5d93d2bf07ae6
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:50:40 2022 +1100
+
+    Get latest list of commits and files
+
+commit c7372ac9d9a9a7ce231a7949b9d70eed533636ec
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:49:09 2022 +1100
+
+    Rename first_file.txt to primary_file.txt
+
+commit f61ba0f1c39b4e1900b714222624ba1b3cfa9445
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:44:11 2022 +1100
+
+    Obtain latest list of commits and current files
+
+commit e78b6fe1631c4e5686ae8fec7983ee2131458b45
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:42:11 2022 +1100
+
+    Delete second file
+
+commit 4eda67a914d4fd540679c89e96fc9c8ef619c5ed
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:40:02 2022 +1100
+
+    Update list of commits and files
+
+commit 35b580c8365c1521e086141baaea8e9a2b1afe3a
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:38:20 2022 +1100
+
+    Delete first file
+
+commit ee7c3ec95aebd4528b4f842051cfe4b36b24f034
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:35:21 2022 +1100
+
+    Add files to delete soon
+
+commit 9e95ecbbb1c35a8abf0d157e2b20c785bf8e0def
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:34:21 2022 +1100
+
+    Add latest list of files
+
+commit 54afd3a688438f4bb45c2657b9519f4f59bca2d0
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:29:33 2022 +1100
+
+    Get latest list of commits and files
+
+commit 5cb61a4a8a6840d2e3dd81620b4a69fff51cd40d
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:28:21 2022 +1100
+
+    Minor text edits
+
+commit 1a4af5064eeac2571df8f3877b2774d122e0e2ef
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:12:17 2022 +1100
+
+    List commits and files
+    
+    Obtain the latest list of commits and files and respectively place in list-commits.txt and list-files.txt.   The documents show the last updates made
+
+commit ea0fee356c2222471717775192908f04c4a47345
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 18:05:15 2022 +1100
+
+    Modified the text of the third file
+
+commit 2cc829f827c05cebc99a1b744846526f9a791e03
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 18:03:15 2022 +1100
+
+    Made changes to first and second files
+
+commit b6163a76c88b44e970d3b1b3dbc4ffeab2e05c47
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 17:50:02 2022 +1100
+
+    Create third text file
+
+commit c8ec16e19f3fbdf69d09ce77a387191f5f339f2c
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 17:48:25 2022 +1100
+
+    Create new second text file
+
+commit f8e5f0ec25429a9c823a890dae2894a4647f7a10
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 17:26:51 2022 +1100
+
+    Initial commit
+    
+    Create file
+
+commit 281eca1ac9b258180bb312b207b0523f8a3292de
+Author: auevangel <95333707+auevangel@users.noreply.github.com>
+Date:   Thu Jan 6 19:36:22 2022 +1100
+
+    Initial commit
