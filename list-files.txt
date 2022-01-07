@@ -18,3 +18,11 @@ drwxr-xr-x 1 aueva 197609    0 Jan  7 20:25 ../
 -rw-r--r-- 1 aueva 197609   72 Jan  7 20:22 third-file.txt
 -rw-r--r-- 1 aueva 197609   47 Jan  7 18:00 second-file.txt
 -rw-r--r-- 1 aueva 197609   10 Jan  7 17:23 README.md
+Fri Jan  7 20:39:10 AUSEST 2022
+-rw-r--r-- 1 aueva 197609 1082 Jan  7 20:39 list-files.txt
+-rw-r--r-- 1 aueva 197609 2088 Jan  7 20:38 list-commits.txt
+-rw-r--r-- 1 aueva 197609    0 Jan  7 20:32 file_to_delete2.txt
+-rw-r--r-- 1 aueva 197609  102 Jan  7 20:23 first_file.txt
+-rw-r--r-- 1 aueva 197609   72 Jan  7 20:22 third-file.txt
+-rw-r--r-- 1 aueva 197609   47 Jan  7 18:00 second-file.txt
+-rw-r--r-- 1 aueva 197609   10 Jan  7 17:23 README.md

@@ -1,3 +1,27 @@
+commit 35b580c8365c1521e086141baaea8e9a2b1afe3a
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:38:20 2022 +1100
+
+    Delete first file
+
+commit ee7c3ec95aebd4528b4f842051cfe4b36b24f034
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:35:21 2022 +1100
+
+    Add files to delete soon
+
+commit 9e95ecbbb1c35a8abf0d157e2b20c785bf8e0def
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:34:21 2022 +1100
+
+    Add latest list of files
+
+commit 54afd3a688438f4bb45c2657b9519f4f59bca2d0
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:29:33 2022 +1100
+
+    Get latest list of commits and files
+
 commit 5cb61a4a8a6840d2e3dd81620b4a69fff51cd40d
 Author: auevangel <auevangel@gmail.com>
 Date:   Fri Jan 7 20:28:21 2022 +1100
