@@ -1,3 +1,15 @@
+commit c7372ac9d9a9a7ce231a7949b9d70eed533636ec
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:49:09 2022 +1100
+
+    Rename first_file.txt to primary_file.txt
+
+commit f61ba0f1c39b4e1900b714222624ba1b3cfa9445
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:44:11 2022 +1100
+
+    Obtain latest list of commits and current files
+
 commit e78b6fe1631c4e5686ae8fec7983ee2131458b45
 Author: auevangel <auevangel@gmail.com>
 Date:   Fri Jan 7 20:42:11 2022 +1100
