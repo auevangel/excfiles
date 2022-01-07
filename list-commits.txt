@@ -1,3 +1,15 @@
+commit e78b6fe1631c4e5686ae8fec7983ee2131458b45
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:42:11 2022 +1100
+
+    Delete second file
+
+commit 4eda67a914d4fd540679c89e96fc9c8ef619c5ed
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 20:40:02 2022 +1100
+
+    Update list of commits and files
+
 commit 35b580c8365c1521e086141baaea8e9a2b1afe3a
 Author: auevangel <auevangel@gmail.com>
 Date:   Fri Jan 7 20:38:20 2022 +1100
