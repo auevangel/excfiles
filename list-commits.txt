@@ -1,0 +1,37 @@
+commit ea0fee356c2222471717775192908f04c4a47345
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 18:05:15 2022 +1100
+
+    Modified the text of the third file
+
+commit 2cc829f827c05cebc99a1b744846526f9a791e03
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 18:03:15 2022 +1100
+
+    Made changes to first and second files
+
+commit b6163a76c88b44e970d3b1b3dbc4ffeab2e05c47
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 17:50:02 2022 +1100
+
+    Create third text file
+
+commit c8ec16e19f3fbdf69d09ce77a387191f5f339f2c
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 17:48:25 2022 +1100
+
+    Create new second text file
+
+commit f8e5f0ec25429a9c823a890dae2894a4647f7a10
+Author: auevangel <auevangel@gmail.com>
+Date:   Fri Jan 7 17:26:51 2022 +1100
+
+    Initial commit
+    
+    Create file
+
+commit 281eca1ac9b258180bb312b207b0523f8a3292de
+Author: auevangel <95333707+auevangel@users.noreply.github.com>
+Date:   Thu Jan 6 19:36:22 2022 +1100
+
+    Initial commit
